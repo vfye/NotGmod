@@ -9,5 +9,27 @@
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
+	],
+	"Plugins": [
+		{
+			"Name": "OculusRift",
+			"Enabled": false
+		},
+		{
+			"Name": "BlueprintStats",
+			"Enabled": true
+		},
+		{
+			"Name": "CodeView",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveEditorListenServer",
+			"Enabled": true
+		},
+		{
+			"Name": "MacGraphicsSwitching",
+			"Enabled": false
+		}
 	]
 }
